@@ -1,24 +1,8 @@
-# README
+**Readme書き方**
+https://zenn.dev/hosu/articles/b0b92fb05d015c
+**Rubyカリキュラム今回、分からなかった問題**
+- 繰り返し処理
+- FizzBuzz
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
